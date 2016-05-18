@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ecampus.mobilelms" version="3.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>eCampus Mobile</name>
+  <name>eCampus mLearning</name>
   <description>Official eCampus LMS Mobile app</description>
   <author href="http://ecampus.maseno.ac.ke" email="pkiprotich@maseno.ac.ke">Peter Kiprotich</author>
   <content src="index.html"/>
